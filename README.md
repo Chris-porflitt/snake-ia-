@@ -9,7 +9,7 @@ El programa mide y reporta tanto el tiempo total de ejecución como el tiempo de
 
  - Cristóbal Ribertt
  - Miguel Gómez
- - Christoper Porflitt
+ - Christoper Porflitts
 
 ---
 
